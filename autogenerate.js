@@ -56,5 +56,5 @@ var nihlinkgenerate = function(arr, config){
     console.log('NihLink Auto Generate');
 }
 // Example
-// nihlinkgenerate(['anasrar.github.io', 'codepen.io'], {url: 'https://kpu-pemalangkab.blogspot.com/', page: 'p/generate.html', keyit: 'AnasRAR', countdown: true})
+// nihlinkgenerate(['anasrar.github.io', 'codepen.io'], {url: 'http://kpu-pemalangkab.blogspot.com/', page: 'p/generate.html', keyit: 'AnasRAR', countdown: true})
 // ([blacklist domain in array], {config json})
